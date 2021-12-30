@@ -1,0 +1,5 @@
+dist
+build
+__pycache__
+down-shutter.exe
+down-shutter.spec
