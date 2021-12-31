@@ -16,6 +16,7 @@ This app let's you shutdown your WINDOWS pc with just 2 clicks
 5: Hold left click (on the shortcut in the taskbar ) and place it before the program that starts in step
 
 6: press Windows-key + 1 and your pc should successfully shutdown
+
 7: auto checks for updates
 
 BONUS: URL 
