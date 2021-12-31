@@ -2,7 +2,7 @@ import os;
 import requests;
 
 current_version = "Version 1.5.0"
-r = requests.get('https://github.com/MattPlayGamez/shutdown/releases/download/publish/version.txt', allow_redirects=True)
+r = requests.get('https://github.com/MattPlayGamez/shutdown/blob/main/version.txt', allow_redirects=True)
 insertversion = open('version.txt', 'wb').write(r.content)
 version = open('version.txt', 'r').read()
 print('You\'re version: ' + current_version )
