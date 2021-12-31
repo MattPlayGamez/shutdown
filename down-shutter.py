@@ -5,7 +5,7 @@ current_version = "Version 1.5.0"
 r = requests.get('https://raw.githubusercontent.com/MattPlayGamez/shutdown/main/version.txt', allow_redirects=True)
 insertversion = open('version.txt', 'wb').write(r.content)
 version = open('version.txt', 'r').read()
-print('You\'re version: ' + current_version )
+print('You\'re version: ' + current_version)
 print('Latest version: ' + version)
 if current_version == version:
      os.system('del version.txt')
