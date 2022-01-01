@@ -21,8 +21,11 @@ BONUS: URL
 
 # PROS:
 You don't need to run it in the background or forground
+
 It's fully build in python
+
 It's lightweight
+
 auto checks for updates
 
 
