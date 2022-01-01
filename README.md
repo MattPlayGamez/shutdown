@@ -17,14 +17,13 @@ This app let's you shutdown your WINDOWS pc with just 2 clicks
 
 6: press Windows-key + 1 and your pc should successfully shutdown
 
-7: auto checks for updates
-
 BONUS: URL 
 
 # PROS:
 You don't need to run it in the background or forground
 It's fully build in python
 It's lightweight
+auto checks for updates
 
 
 # CONS:
