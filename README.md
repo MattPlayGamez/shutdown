@@ -26,7 +26,7 @@ It's fully built in python
 
 It's lightweight
 
-auto checks for updates
+Auto checks for updates
 
 
 # CONS:
